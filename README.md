@@ -2,7 +2,7 @@
 
 # NIFTY 50 Event-Driven Mean Reversion Backtest
 
-**[Link to 2-3 minute Video Walkthrough]** *(Insert your YouTube/Drive link here)*
+**[Link to 2-3 minute Video Walkthrough]** *(https://drive.google.com/file/d/1JcAxpM2JqgPicACd-5qpJ83CZHypg4YR/view?usp=sharing)*
 
 ## Overview
 This repository contains a Python-based quantitative research engine designed to investigate the hypothesis that the NIFTY 50 index exhibits a measurable, mean-reverting recovery following a significant one-day drop. 
